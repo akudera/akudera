@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, World! <img src="https://private-user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0NTcyNzUsIm5iZiI6MTc1ODQ1Njk3NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDQtODdiNzI3NjgtMzc0MC00NjQ4LWIxMTgtYzMxNjRmZjY1NGNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTIxVDEyMTYxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlNDc0NDBkM2ZmNzQ5YjdkMDk1NjUwNjEyNDlmZGIxNGY2Nzg2MjlkNjU0MTg0OTBhNjkyNjhhOWI2MzVlYWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LPF4gesfgwegWPiKNVEzKczsNj4-7ZgO541m8N_-LyQ" width="40" />
+Hello, World! <img src="https://media.tenor.com/Joer8rXW-v8AAAAj/neko-cat.gif" width="40" />
 </h1>
 
 ## 🙋‍♂️ About Me

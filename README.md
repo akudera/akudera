@@ -31,6 +31,6 @@ Hello, World! <img src="https://media.tenor.com/Joer8rXW-v8AAAAj/neko-cat.gif" w
 
 <a href="https://github.com/akudera/To-Do" title="ToDo" target="_blank" rel="noopener noreferrer"><img src="https://github.com/akudera/To-Do/blob/main/Preview.png?raw=true" alt="ToDo app" width="350"/></a>
 
-<a href="https://github.com/akudera/To-Do" title="Sirius.Travel" target="_blank" rel="noopener noreferrer"><img src="https://github.com/akudera/Sirius.Travel/blob/main/Preview-mini.png?raw=true" alt="Sirius.Travel" width="350"/></a>
+<a href="https://github.com/akudera/Sirius.Travel" title="Sirius.Travel" target="_blank" rel="noopener noreferrer"><img src="https://github.com/akudera/Sirius.Travel/blob/main/Preview-mini.png?raw=true" alt="Sirius.Travel" width="350"/></a>
 
 <a href="https://github.com/akudera/Kropp-Fitness" title="Kropp-Fitness" target="_blank" rel="noopener noreferrer"><img src="https://github.com/akudera/Kropp-Fitness/blob/main/Preview-mini.png?raw=true" alt="Kropp-Fitness app" width="350"/></a>
